@@ -1,0 +1,1 @@
+project of analysis of artificial intelligence in medicine
